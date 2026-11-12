@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wise-ajou.github.io/sitemap.xml
